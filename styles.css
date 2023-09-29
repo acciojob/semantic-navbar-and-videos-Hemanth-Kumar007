@@ -1,5 +1,14 @@
 
 /* Your CSS Code here. */
+#nav-section>nav>ul{
+	list-style-type: none;
+	display: flex;
+	margin-left: -35px;
+}
+
+#nav-section>nav>ul>li{
+	margin-right: 10px;
+}
 
 #main-section>h1{
 	text-align: center;
